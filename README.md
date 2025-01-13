@@ -1,5 +1,5 @@
 # odin-recipes
-Thi project is about creating an HTML website for recipies.
+Thi project is about creating an HTML website for recipes
 
 # skills built
 
